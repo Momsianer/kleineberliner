@@ -75,7 +75,7 @@ hr {
   border-radius: 0;
 }
 .btn.btn-primary {
-  background: #C3360B;
+  background: #6aa053;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary:focus {
@@ -94,7 +94,7 @@ hr {
   bottom: -1px;
   left: 0;
   width: 40%;
-  border-bottom: 1px solid #C3360B;
+  border-bottom: 1px solid #6aa053;
 }
 ul.nostyle {
   list-style: none;
@@ -176,7 +176,7 @@ color: #FFFFFF;
     padding-bottom: 40px;
   }
   .navbar-default .navbar-nav>li>a {
-	color: #C3360B;
+	color: #6aa053;
 	}
   #main-nav.navbar-default .navbar-nav > li.active > a,
   #main-nav.navbar-default .navbar-nav > li.open > a,
