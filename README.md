@@ -7,3 +7,4 @@
 - Hintergrundfarben anpassen
 - Gesetzte Einfügen + kleiner Text
 - Testamonial entfernen / ändern
+- Bilder beschriften
